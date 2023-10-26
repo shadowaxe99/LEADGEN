@@ -1,0 +1,10 @@
+
+{
+    "name": "lead-gen-streamlit",
+    "version": "1.0.0",
+    "description": "A fun and intuitive lead generation app built with Streamlit",
+    "scripts": {
+        "start": "streamlit run main.py"
+    },
+    "dependencies": {}
+}
